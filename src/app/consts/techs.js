@@ -1,0 +1,23 @@
+export default {
+    ts: "TypeScript",
+    js: "JavaScript",
+    mongo: "MongoDB",
+    html: "HTML",
+    css: "CSS",
+    scss: "SCSS",
+    node: "Node.js",
+    vscode: "VSCode",
+    figma: "Figma",
+    git: "Git & GitHub",
+    react: "React",
+    express: "Express",
+    vue: "VueJS",
+    nuxt: "NuxtJS",
+    laravel: "Laravel",
+    nest: "NestJS",
+    tailwind: "Tailwind",
+    boostrap: "Boostrap",
+    mysql: "MySQL",
+    php: "PHP",
+    docker: "Docker"
+}
