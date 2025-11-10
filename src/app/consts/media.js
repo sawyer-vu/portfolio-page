@@ -6,14 +6,14 @@ const media = {
         tag: "elias.dev.",
     },
     linkedin: {
-        id: "huyvu-developer",
-        tag: "huyvu-developer",
+        id: "huyvu-dev",
+        tag: "huyvu-dev",
     },
     stackOverflow: {
         id: "19758208",
         name: "elias",
     },
-    github: "huyvu-developer",
+    github: "sawyer-vu",
     figma: "elias_dev",
     replit: "EliasDev",
     codewars: "EliasDevis",
