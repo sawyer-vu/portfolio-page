@@ -49,7 +49,7 @@ eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpa
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _proxies_media__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../proxies/media */ \"./src/app/proxies/media.js\");\n\n\nconst media = {\n    discord: {\n        id: \"914240860101681163\",\n        tag: \"elias.dev.\",\n    },\n    linkedin: {\n        id: \"huyvu-developer\",\n        tag: \"huyvu-developer\",\n    },\n    stackOverflow: {\n        id: \"19758208\",\n        name: \"elias\",\n    },\n    github: \"huyvu-developer\",\n    figma: \"elias_dev\",\n    replit: \"EliasDev\",\n    codewars: \"EliasDevis\",\n    devTo: \"eliasdevis\",\n    cssBattle: \"elias_dev\",\n    codepen: \"elias_dev\",\n    dribble: \"Elias_dev\",\n    email: \"huyvq.developer@gmail.com\",\n    facebook: \"huyV81\"\n}\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (new Proxy(media, _proxies_media__WEBPACK_IMPORTED_MODULE_0__[\"default\"]));\n\n\n\n//# sourceURL=webpack://portfolio/./src/app/consts/media.js?\n}");
+eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _proxies_media__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../proxies/media */ \"./src/app/proxies/media.js\");\n\n\nconst media = {\n    discord: {\n        id: \"914240860101681163\",\n        tag: \"elias.dev.\",\n    },\n    linkedin: {\n        id: \"huyvu-dev\",\n        tag: \"huyvu-dev\",\n    },\n    stackOverflow: {\n        id: \"19758208\",\n        name: \"elias\",\n    },\n    github: \"sawyer-vu\",\n    figma: \"elias_dev\",\n    replit: \"EliasDev\",\n    codewars: \"EliasDevis\",\n    devTo: \"eliasdevis\",\n    cssBattle: \"elias_dev\",\n    codepen: \"elias_dev\",\n    dribble: \"Elias_dev\",\n    email: \"huyvq.developer@gmail.com\",\n    facebook: \"huyV81\"\n}\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (new Proxy(media, _proxies_media__WEBPACK_IMPORTED_MODULE_0__[\"default\"]));\n\n\n\n//# sourceURL=webpack://portfolio/./src/app/consts/media.js?\n}");
 
 /***/ }),
 
@@ -233,7 +233,7 @@ eval("{__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-ext
 /******/ 		// This function allow to reference async chunks
 /******/ 		__webpack_require__.u = (chunkId) => {
 /******/ 			// return url for filenames based on template
-/******/ 			return "js/" + {"src_app_views_About_js":"f436a0ad7cdc0ba1e1fd","src_app_views_Contacts_js":"560ef71063b129da344c","src_app_views_Home_js":"da219a41ddd0f1ff9471","src_app_views_PageNotFound_js":"889f973003c86d2b46df","src_app_views_Projects_js":"e82d35814dda83c923d9"}[chunkId] + ".js";
+/******/ 			return "js/" + {"src_app_views_About_js":"f436a0ad7cdc0ba1e1fd","src_app_views_Contacts_js":"560ef71063b129da344c","src_app_views_Home_js":"409b3b61ce66bce026a4","src_app_views_PageNotFound_js":"889f973003c86d2b46df","src_app_views_Projects_js":"566d1a05b9b0c732b8db"}[chunkId] + ".js";
 /******/ 		};
 /******/ 	})();
 /******/ 	
@@ -287,7 +287,6 @@ eval("{__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-ext
 /******/ 				script = document.createElement('script');
 /******/ 		
 /******/ 				script.charset = 'utf-8';
-/******/ 				script.timeout = 120;
 /******/ 				if (__webpack_require__.nc) {
 /******/ 					script.setAttribute("nonce", __webpack_require__.nc);
 /******/ 				}

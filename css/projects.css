@@ -37,12 +37,14 @@
   width: 100%;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 16px;
-  align-items: start;
-  margin-top: 48px;
 }
 @media (max-width: 1024px) {
   .project-list {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   }
+}
+.project-list {
+  gap: 16px;
+  align-items: start;
+  margin-top: 48px;
 }
