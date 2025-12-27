@@ -9,14 +9,14 @@
  */
 (self["webpackChunkportfolio"] = self["webpackChunkportfolio"] || []).push([["src_app_views_PageNotFound_js"],{
 
-/***/ "./src/app/views/PageNotFound.js":
+/***/ "./src/app/views/PageNotFound.js"
 /*!***************************************!*\
   !*** ./src/app/views/PageNotFound.js ***!
   \***************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (() => {\n    return `404`;\n});\n\n\n//# sourceURL=webpack://portfolio/./src/app/views/PageNotFound.js?\n}");
 
-/***/ })
+/***/ }
 
 }]);
